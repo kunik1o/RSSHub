@@ -976,9 +976,6 @@
     "/bsky/keyword/:keyword": [
         "untitaker"
     ],
-    "/bsky/profile/:handle": [
-        "TonyRL"
-    ],
     "/btzj/:category?": [
         "nczitzk"
     ],
