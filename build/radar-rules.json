@@ -4009,6 +4009,12 @@
         "title": "关键词",
         "docs": "https://docs.rsshub.app/routes/social-media#bluesky-bsky",
         "source": "/search"
+      },
+      {
+        "title": "Post",
+        "docs": "https://docs.rsshub.app/routes/social-media#bluesky-bsky",
+        "source": "/profile/:handle",
+        "target": "/bsky/profile/:handle"
       }
     ]
   },
@@ -19855,6 +19861,15 @@
         "docs": "https://docs.rsshub.app/routes/journal#MDPI",
         "source": "/journal/:journal",
         "target": "/mdpi/:journal"
+      }
+    ]
+  },
+  "medieval-china.club": {
+    "_name": "中国的中古",
+    ".": [
+      {
+        "title": "首页",
+        "docs": "https://docs.rsshub.app/routes/reading#zhong-guo-de-zhong-shou-ye"
       }
     ]
   },

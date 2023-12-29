@@ -976,6 +976,9 @@
     "/bsky/keyword/:keyword": [
         "untitaker"
     ],
+    "/bsky/profile/:handle": [
+        "TonyRL"
+    ],
     "/btzj/:category?": [
         "nczitzk"
     ],
@@ -4286,6 +4289,9 @@
         "Derekmini"
     ],
     "/mediadigest/:range/:category?": [],
+    "/medieval-china": [
+        "artefaritaKuniklo (眠洲)"
+    ],
     "/medium/following/:user": [
         "ImSingee"
     ],
