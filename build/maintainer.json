@@ -582,6 +582,9 @@
         "TonyRL"
     ],
     "/babykingdom/:id/:order?": [],
+    "/backlinko/blog": [
+        "TonyRL"
+    ],
     "/bad/:path+": [
         "nczitzk"
     ],
@@ -7322,6 +7325,9 @@
     ],
     "/yicai/brief": [
         "sanmmm",
+        "nczitzk"
+    ],
+    "/yicai/dt/:column?/:category?": [
         "nczitzk"
     ],
     "/yicai/feed/:id?": [
