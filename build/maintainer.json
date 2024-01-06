@@ -2540,6 +2540,9 @@
         "CcccFz"
     ],
     "/gocomics/:name": [],
+    "/gofans/:kind?": [
+        "HenryQW"
+    ],
     "/gogoanimehd/recent-releases": [
         "user4302"
     ],
@@ -4119,6 +4122,9 @@
     ],
     "/liulinblog/tag/:id": [
         "nczitzk"
+    ],
+    "/liveuamap/:region?": [
+        "CoderSherlock"
     ],
     "/liyuan-forums/threads": [],
     "/liyuan-forums/threads/forum/:forum_id": [],
